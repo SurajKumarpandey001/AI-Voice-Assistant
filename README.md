@@ -29,7 +29,7 @@ lumos/ │ ├── speaking.mp4 # Video played when Lumos is speaking ├─�
 ## 🔧 Setup Instructions
 
 1. **Clone this repository**
-   git clone https://github.com/ChAtulKumarPrusty/AI-Voice-Assistant.git
+   git clone https://github.com/SurajKumarpandey001/AI-Voice-Assistant
    cd AI-Voice-Assistant
 
 Install dependencies
@@ -70,8 +70,8 @@ Save conversation los
 Improve wake-word detection with hotword libraries
 
 📬 Contact
-Created by Atul Kumar Prusty
-📧 Email: chatulprust@gmail.com
+Created by Suraj Kumar
+📧 Email: surajkumarpandey.ds@gmail.com
 
 If you liked this project, don't forget to ⭐ star it and follow me for more!
 
